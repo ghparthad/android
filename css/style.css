@@ -533,6 +533,7 @@ a.logout-link:hover{
     color: #b3b3b3;
     text-align:right;
     text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .news-block:first-child .news-header img{
